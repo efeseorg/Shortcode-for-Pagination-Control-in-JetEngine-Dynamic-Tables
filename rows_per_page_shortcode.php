@@ -1,3 +1,4 @@
+<?php
 function filas_por_pagina_shortcode() {
     ob_start();
     ?>
